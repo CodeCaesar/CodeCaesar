@@ -30,7 +30,7 @@
 
 ## GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CodeCaesar&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CodeCaesar&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeCaesar&layout=compact&theme=tokyonight&hide_border=true)
 
