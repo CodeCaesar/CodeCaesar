@@ -1,4 +1,6 @@
-# hi, I'm @CodeCaesar
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=hi,%20I'm%20@CodeCaesar&animation=fadeIn&type=waving&color=0:168016,100:14a83c&fontColor=ededed&height=100"/>
+</p>
 
 ## About Me
 - Currently a student at University of Glasgow 
